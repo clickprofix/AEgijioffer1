@@ -35,7 +35,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
     "siteFonts": [],
-    "uniqCompNum": 30,
+    "uniqCompNum": 32,
     "versionPublish": "4.8.6"
   },
   "pages": {
