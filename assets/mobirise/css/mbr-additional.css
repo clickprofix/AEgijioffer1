@@ -3811,104 +3811,31 @@ body {
     width: 100% !important;
   }
 }
-.cid-r8aqjnJx8d {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+.cid-r8atH5Eqei {
+  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
 }
-.cid-r8aqjnJx8d .mbr-section-subtitle {
-  color: #767676;
+.cid-r8atH5Eqei .form-container {
+  transition: all .2s;
+  border: 1px solid #ffffff;
+  padding: 1rem;
+  background: linear-gradient(#ff7f9f, #55b4d4);
+  border: none;
 }
-.cid-r8aqjnJx8d .formoid {
-  margin: auto;
+.cid-r8atH5Eqei .input-group-btn {
+  justify-content: center;
+  -webkit-justify-content: center;
 }
-.cid-r8aqjnJx8d .form-control {
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
-}
-.cid-r8aqjnJx8d a.btn {
-  flex: 0 0 auto;
-  -webkit-flex: 0 0 auto;
-}
-.cid-r8aqjnJx8d .input-group-btn {
-  align-self: center;
-  -webkit-align-self: center;
-  z-index: 3;
-}
-.cid-r8aqjnJx8d .input-group-btn .btn {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  border-top-right-radius: 3px;
-  border-bottom-right-radius: 3px;
-}
-.cid-r8aqjnJx8d a:not([href]):not([tabindex]) {
-  color: #fff;
-}
-.cid-r8aqjnJx8d a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-r8aqjnJx8d .mbr-subscribe .input-group-btn {
-  display: inline-block;
-}
-.cid-r8aqjnJx8d .mbr-subscribe .input-group-btn button,
-.cid-r8aqjnJx8d .mbr-subscribe .input-group-btn a {
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
-}
-@media (max-width: 350px) {
-  .cid-r8aqjnJx8d .mbr-subscribe {
-    flex-direction: column;
-    -webkit-flex-direction: column;
-  }
-  .cid-r8aqjnJx8d input[type="email"] {
-    width: 100%;
-    margin-bottom: 2px;
-  }
-  .cid-r8aqjnJx8d .input-group-btn {
-    width: 100%;
-  }
-  .cid-r8aqjnJx8d .input-group-btn .btn {
-    border-radius: 3px;
+@media (min-width: 768px) {
+  .cid-r8atH5Eqei .content-container {
+    padding-right: 5rem;
   }
 }
-@media (max-width: 768px) {
-  .cid-r8aqjnJx8d .input-group-btn a.btn {
-    width: 100%;
-  }
-  .cid-r8aqjnJx8d .input-group-btn {
-    width: calc(92%);
-  }
-  .cid-r8aqjnJx8d .input-group-btn button[type="submit"] {
-    width: 100%;
-  }
-  .cid-r8aqjnJx8d .input-group {
-    display: -webkit-flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    margin: auto;
-    max-width: 300px;
-    -webkit-flex-direction: column;
-    -webkit-flex-wrap: wrap;
-  }
-  .cid-r8aqjnJx8d .input-group input[type="email"] {
-    width: 100%;
-    margin-bottom: 3px;
-  }
-  .cid-r8aqjnJx8d .input-group span {
-    display: inline;
-    padding-left: 0;
-    padding-right: 0;
-  }
-  .cid-r8aqjnJx8d .input-group-btn button,
-  .cid-r8aqjnJx8d .input-group-btn a {
-    margin-left: 0 !important;
-    margin-right: 0 !important;
-  }
+.cid-r8atH5Eqei H1 {
+  text-align: center;
 }
-@media (min-width: 769px) {
-  .cid-r8aqjnJx8d .mbr-subscribe > * {
-    margin: 0 0.5rem;
-  }
+.cid-r8atH5Eqei .mbr-text,
+.cid-r8atH5Eqei .mbr-section-btn {
+  text-align: center;
 }
 .cid-r8al449iYk {
   padding-top: 90px;
