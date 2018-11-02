@@ -3811,31 +3811,18 @@ body {
     width: 100% !important;
   }
 }
-.cid-r8atH5Eqei {
+.cid-r8g8EWf3Z9 {
   background-image: url("../../../assets/images/mbr-1920x1280.jpg");
 }
-.cid-r8atH5Eqei .form-container {
-  transition: all .2s;
-  border: 1px solid #ffffff;
-  padding: 1rem;
-  background: linear-gradient(#ff7f9f, #55b4d4);
-  border: none;
+.cid-r8g8EWf3Z9 .mbr-section-subtitle {
+  letter-spacing: .2rem;
 }
-.cid-r8atH5Eqei .input-group-btn {
-  justify-content: center;
-  -webkit-justify-content: center;
+.cid-r8g8EWf3Z9 H1 {
+  text-align: left;
 }
-@media (min-width: 768px) {
-  .cid-r8atH5Eqei .content-container {
-    padding-right: 5rem;
-  }
-}
-.cid-r8atH5Eqei H1 {
-  text-align: center;
-}
-.cid-r8atH5Eqei .mbr-text,
-.cid-r8atH5Eqei .mbr-section-btn {
-  text-align: center;
+.cid-r8g8EWf3Z9 .mbr-text,
+.cid-r8g8EWf3Z9 .mbr-section-btn {
+  text-align: left;
 }
 .cid-r8al449iYk {
   padding-top: 90px;
